@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/propconsole/static/css/main.a8639c10.chunk.css",
+    "main.js": "/propconsole/static/js/main.d5065939.chunk.js",
+    "main.js.map": "/propconsole/static/js/main.d5065939.chunk.js.map",
+    "runtime-main.js": "/propconsole/static/js/runtime-main.5df330d4.js",
+    "runtime-main.js.map": "/propconsole/static/js/runtime-main.5df330d4.js.map",
+    "static/js/2.59fad310.chunk.js": "/propconsole/static/js/2.59fad310.chunk.js",
+    "static/js/2.59fad310.chunk.js.map": "/propconsole/static/js/2.59fad310.chunk.js.map",
+    "static/js/3.a03f62e4.chunk.js": "/propconsole/static/js/3.a03f62e4.chunk.js",
+    "static/js/3.a03f62e4.chunk.js.map": "/propconsole/static/js/3.a03f62e4.chunk.js.map",
+    "index.html": "/propconsole/index.html",
+    "static/css/main.a8639c10.chunk.css.map": "/propconsole/static/css/main.a8639c10.chunk.css.map",
+    "static/js/2.59fad310.chunk.js.LICENSE.txt": "/propconsole/static/js/2.59fad310.chunk.js.LICENSE.txt",
+    "static/media/auth-banner.460b2dfc.png": "/propconsole/static/media/auth-banner.460b2dfc.png",
+    "static/media/auth-logo.95d670ff.svg": "/propconsole/static/media/auth-logo.95d670ff.svg",
+    "static/media/chevron-right.e090a287.svg": "/propconsole/static/media/chevron-right.e090a287.svg",
+    "static/media/email.40614d76.svg": "/propconsole/static/media/email.40614d76.svg",
+    "static/media/eye-off.2e144eb1.svg": "/propconsole/static/media/eye-off.2e144eb1.svg",
+    "static/media/padlock.d7f84777.svg": "/propconsole/static/media/padlock.d7f84777.svg",
+    "static/media/verified.a1cb094b.svg": "/propconsole/static/media/verified.a1cb094b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5df330d4.js",
+    "static/js/2.59fad310.chunk.js",
+    "static/css/main.a8639c10.chunk.css",
+    "static/js/main.d5065939.chunk.js"
+  ]
+}
