@@ -2,13 +2,13 @@ import Home from "pages/home";
 import Login from "pages/login";
 import Domain from "pages/domain";
 import Register from "pages/register";
-import { Route } from "react-router-dom";
 import ResetPassword from "pages/password-reset";
+import { Route, Switch } from "react-router-dom";
 import ForgotPassword from "pages/forgot-password";
 
 const App = () => {
   return (
-    <>
+    <Switch>
       <Route exact path="/forgot-password">
         <ForgotPassword />
       </Route>
@@ -27,7 +27,7 @@ const App = () => {
       <Route exact path="/">
         <Home />
       </Route>
-    </>
+    </Switch>
   );
 };
 
