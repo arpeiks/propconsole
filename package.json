@@ -1,5 +1,6 @@
 {
   "name": "propconsole",
+  "homepage": "http://arpeiks.github.io/propconsole",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,6 +21,8 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
+  "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -45,6 +48,7 @@
   },
   "devDependencies": {
     "@types/react-router-dom": "^5.1.8",
-    "@types/styled-components": "^5.1.12"
+    "@types/styled-components": "^5.1.12",
+    "gh-pages": "^3.2.3"
   }
 }
